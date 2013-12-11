@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Bitbucket pullrequest easypatch downloader",
+  "name": "Bitbucket pull request patch link",
   "description": "This extension makes it easy to get a unified patch of the changes in a Bitbucket pull request",
   "version": "1.0",
 
